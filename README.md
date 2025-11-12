@@ -3,6 +3,7 @@ Hi I am Harsh Kamble(HK), a Cybersecurity tinkerer. My Focused areas are Cryptog
 
 ## Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:harshgkamble@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/iamharshkamble)
 
 ## Tryhackme
 ![THM Badge](https://tryhackme-badges.s3.amazonaws.com/nihonjinbaka.png)
